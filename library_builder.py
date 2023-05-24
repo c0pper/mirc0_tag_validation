@@ -46,13 +46,45 @@ for obj in data:
             testo = tag_obj["testo"]
             errato = tag_obj.get("errato", False)
 
-            texts_in_ordine_tag_no_dups = [list(x.values())[0] for x in ordine_tag_no_dups]
+            texts_in_ordine_tag_no_dups = [list(x.values())[0] for x in ordine_tag_no_dups]  # array con tutti i testi in ordine_tag_no_dups (inizialmente vuoto)
             if testo not in texts_in_ordine_tag_no_dups:
-                ordine_tag_no_dups.append({"testo": testo, "tags": [{"tag": tag, "errato": errato}]})
+                #  se il testo non c'è già appendiamo l'intero dizionario con testo, tag e status errato
+                ordine_tag_no_dups.append(
+                    {
+                        "testo": testo,
+                        "tags": [
+                            {
+                                "tag": tag,
+                                "errato": errato
+                            }
+                        ]
+                    }
+                )
             else:
+                #  se il testo c'è già, aggiorniamo l'elenco di tags con il tag nuovo che si riferisce allo stesso testo
                 for d in ordine_tag_no_dups:
                     if d["testo"] == testo:
-                        d["tags"].append({"tag": tag, "errato": errato})
+                        d["tags"].append(
+                            {
+                                "tag": tag,
+                                "errato": errato
+                            }
+                        )
+
+        word_tags = obj["tag"].get("word_tags")
+        if ordine_tag_no_dups and word_tags:  # se ci sono tag proveniente da word
+            for tag_obj in word_tags:
+                tag = tag_obj["tag"]
+                testo = tag_obj["testo"]
+
+                ordine_tag_no_dups.append(
+                    {
+                        "testo": testo,
+                         "tags": [
+                             {"tag": tag}
+                         ]
+                     }
+                )
 
         #  identificazione speaker e creazione files
         for idx, tag_obj in enumerate(ordine_tag_no_dups):
@@ -77,7 +109,7 @@ for obj in data:
                 with open(f"{ann_path_operatore}/{id_}_operatore_{idx}.ann", "a", encoding="utf-8") as f:
                     for tag_obj in tags:
                         tag = tag_obj["tag"]
-                        errato = tag_obj["errato"]
+                        errato = tag_obj.get("errato", False)
                         if not errato:
                             f.write(f"C0		{tag}\n")
 
@@ -85,7 +117,7 @@ for obj in data:
                 with open(f"{ann_path_debitore}/{id_}_debitore_{idx}.ann", "a", encoding="utf-8") as f:
                     for tag_obj in tags:
                         tag = tag_obj["tag"]
-                        errato = tag_obj["errato"]
+                        errato = tag_obj.get("errato", False)
                         if not errato:
                             f.write(f"C0		{tag}\n")
 
