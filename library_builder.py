@@ -10,27 +10,14 @@ from word_comments_extraction_utils import return_comments_dicts
 from datetime import date
 from logger import logger
 
-WRITE_FILES = 0
+WRITE_FILES = 1
 
-# #  logger
-# logger = logging.getLogger("logger")
-# logger.setLevel(logging.DEBUG)
-#
-# logFileFormatter = logging.Formatter(
-#     fmt=f"%(levelname)s %(asctime)s \t %(pathname)s F%(funcName)s L%(lineno)s - %(message)s",
-#     datefmt="%Y-%m-%d %H:%M:%S",
-# )
-# fileHandler = logging.FileHandler(filename=f'{datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")}.log')
-# fileHandler.setFormatter(logFileFormatter)
-# fileHandler.setLevel(level=logging.INFO)
-#
-# logger.addHandler(fileHandler)
 
 file_validazione = "20230419_valid_tag"
 doc_folder = Path(r"C:\Users\smarotta\Desktop\mirco_file_validazione\output")
-txt_path_operatore = Path(f"output/{date.today()}_{file_validazione}/operatore/txt")
+txt_path_operatore = Path(f"output/{date.today()}_{file_validazione}/operatore/test")
 ann_path_operatore = Path(f"output/{date.today()}_{file_validazione}/operatore/ann")
-txt_path_debitore = Path(f"output/{date.today()}_{file_validazione}/debitore/txt")
+txt_path_debitore = Path(f"output/{date.today()}_{file_validazione}/debitore/test")
 ann_path_debitore = Path(f"output/{date.today()}_{file_validazione}/debitore/ann")
 
 txt_path_operatore.mkdir(parents=True, exist_ok=True)
