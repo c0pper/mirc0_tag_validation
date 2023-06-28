@@ -1,0 +1,20 @@
+INFO 2023-06-28 09:58:22 	 C:\Users\smarotta\PycharmProjects\mirc0_tag_validation\library_builder.py F<module> L130 - id chiamata: 09c708bb-803e-4308-8b03-e8f003e089b3
+[tag diversi] chiamata è registrata  FOUND IN S0: come sempre il corpo della chiamata è registrata come dal sito lei è nata il 21 uno 67 giusto Pietraperzia signora chiamato solo per sapere se avete messo a posto la rata di luglio quella scaduta giorno venti
+ 
+	 tag rispetto_script not in []
+INFO 2023-06-28 09:58:22 	 C:\Users\smarotta\PycharmProjects\mirc0_tag_validation\library_builder.py F<module> L130 - id chiamata: 09c708bb-803e-4308-8b03-e8f003e089b3
+[tag diversi] chiamato solo per sapere se avete messo a posto la rata di luglio quella scaduta giorno venti FOUND IN S0: come sempre il corpo della chiamata è registrata come dal sito lei è nata il 21 uno 67 giusto Pietraperzia signora chiamato solo per sapere se avete messo a posto la rata di luglio quella scaduta giorno venti
+ 
+	 tag pagamento_effettuato not in []
+INFO 2023-06-28 09:58:22 	 C:\Users\smarotta\PycharmProjects\mirc0_tag_validation\library_builder.py F<module> L140 - id chiamata: 09c708bb-803e-4308-8b03-e8f003e089b3
+[tag uguali] oggi la vado a pagare  FOUND IN S0: oggi ne abbiamo 21 22 oggi la vado a pagare e mi raccomando signora così risulta
+ 
+	 tag data_pagamento FOUND IN ['data_pagamento', 'volonta_pagamento']
+INFO 2023-06-28 09:58:22 	 C:\Users\smarotta\PycharmProjects\mirc0_tag_validation\library_builder.py F<module> L140 - id chiamata: ab3b483d-0f53-4066-9121-840a11f43a18
+[tag uguali] la chiamo dall' Italia  FOUND IN S0: buongiorno signora mi scusi il disturbo la chiamo dall' Italia per conto Agos Ducato le ricordo sempre adesso ad averla registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+INFO 2023-06-28 09:58:22 	 C:\Users\smarotta\PycharmProjects\mirc0_tag_validation\library_builder.py F<module> L140 - id chiamata: ab3b483d-0f53-4066-9121-840a11f43a18
+[tag uguali] le ricordo sempre adesso ad averla registrata  FOUND IN S0: buongiorno signora mi scusi il disturbo la chiamo dall' Italia per conto Agos Ducato le ricordo sempre adesso ad averla registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
