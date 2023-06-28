@@ -28,7 +28,7 @@ ann_path_debitore.mkdir(parents=True, exist_ok=True)
 with open(f"{file_validazione}.json", "r", encoding="utf8") as f:
     data = json.load(f)
 
-for obj in data[:3]:
+for obj in data:
     idpratica = obj["ID_Pratica"]
     idchiamata = obj["idchiamata"]
     id_ = f"{idpratica}_{idchiamata}"
