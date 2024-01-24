@@ -380,6 +380,8 @@ import json
 with open("20230419_valid_tag.json", "r", encoding="utf8") as j:
     data = json.load(j, strict=False)
 
+count_operatore_all = 0
+count_debitore_all = 0
 count_operatore_errors = 0
 count_debitore_errors = 0
 
@@ -388,18 +390,21 @@ for obj in data:
     if obj.get("tag"):
         # Iterate over the objects in the "ordine_tag" array
         for tag in obj['tag']['ordine_tag']:
+            testo_debitore = obj["tag"].get("debitore", "").get("testo_debitore", "")
+            testo_operatore = obj["tag"].get("operatore", "").get("testo_operatore", "")
+            testo = tag["testo"]
+
+            if testo in testo_operatore:
+                count_operatore_all += 1
+            elif testo in testo_debitore:
+                count_debitore_all += 1
+
             # Check if the "errato" key exists and has a truthy value
             if 'errato' in tag.keys():
-                testo_errato = tag["testo"]
-                # Check if the "testo" value of the object exists in the "analisi_debitore" and "analisi_operatore" arrays
-                testo_debitore = obj["tag"].get("debitore", "").get("testo_debitore", "")
-                testo_operatore = obj["tag"].get("operatore", "").get("testo_operatore", "")
-                if testo_errato in testo_operatore:
-                    # Set a flag indicating that the error occurred in the text said by the "operatore"
+                if testo in testo_operatore:
                     count_operatore_errors += 1
-                elif testo_errato in testo_debitore:
-                    # Set a flag indicating that the error occurred in the text said by the "debitore"
+                elif testo in testo_debitore:
                     count_debitore_errors += 1
 
-print("operatore", count_operatore_errors)
-print("debitore", count_debitore_errors)
+print("operatore", count_operatore_errors, "/", count_operatore_all)
+print("debitore", count_debitore_errors, "/", count_debitore_all)
