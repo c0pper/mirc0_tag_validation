@@ -1,0 +1,995 @@
+WARNING 2024-03-04 12:05:50 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 09c708bb-803e-4308-8b03-e8f003e089b3
+[tag diversi] chiamata è registrata  FOUND IN S0: come sempre il corpo della chiamata è registrata come dal sito lei è nata il 21 uno 67 giusto Pietraperzia signora chiamato solo per sapere se avete messo a posto la rata di luglio quella scaduta giorno venti
+ 
+	 tag rispetto_script not in []
+
+WARNING 2024-03-04 12:05:50 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 09c708bb-803e-4308-8b03-e8f003e089b3
+[tag diversi] chiamato solo per sapere se avete messo a posto la rata di luglio quella scaduta giorno venti FOUND IN S0: come sempre il corpo della chiamata è registrata come dal sito lei è nata il 21 uno 67 giusto Pietraperzia signora chiamato solo per sapere se avete messo a posto la rata di luglio quella scaduta giorno venti
+ 
+	 tag pagamento_effettuato not in []
+
+WARNING 2024-03-04 12:05:50 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 09c708bb-803e-4308-8b03-e8f003e089b3
+[tag uguali] oggi la vado a pagare  FOUND IN S0: oggi ne abbiamo 21 22 oggi la vado a pagare e mi raccomando signora così risulta
+ 
+	 tag data_pagamento FOUND IN ['data_pagamento', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:50 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: ab3b483d-0f53-4066-9121-840a11f43a18
+[tag uguali] la chiamo dall' Italia  FOUND IN S0: buongiorno signora mi scusi il disturbo la chiamo dall' Italia per conto Agos Ducato le ricordo sempre adesso ad averla registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:50 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: ab3b483d-0f53-4066-9121-840a11f43a18
+[tag uguali] le ricordo sempre adesso ad averla registrata  FOUND IN S0: buongiorno signora mi scusi il disturbo la chiamo dall' Italia per conto Agos Ducato le ricordo sempre adesso ad averla registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:50 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: bfe1f10d-d234-44e2-b4df-eed428ed8713
+[tag diversi] avevamo preso degli accordi mi ha rimandato a mercoledì questo ma non ho ricevuto nulla  FOUND IN S0: ho capito eh sì avevamo preso degli accordi mi ha rimandato a mercoledì questo ma non ho ricevuto nulla esatto nella pratica
+ 
+	 tag pagamento_effettuato not in []
+
+WARNING 2024-03-04 12:05:50 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: bfe1f10d-d234-44e2-b4df-eed428ed8713
+[tag uguali] io sto aspettando ancora il pagamento FOUND IN S10: esatto niente io sto aspettando ancora il pagamento e che non è oggi lunedì o sul soldi e in base a quello che io le giro il bonifico
+ 
+	 tag attesa_liquidita FOUND IN ['attesa_liquidita']
+
+WARNING 2024-03-04 12:05:50 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: bfe1f10d-d234-44e2-b4df-eed428ed8713
+[tag diversi] devo mandare la pratica nella fase successiva di recupero perché è finito il tempo a mia disposizione FOUND IN S0: dire che devo mandare la pratica nella fase successiva di recupero perché è finito il tempo a mia disposizione
+ 
+	 tag utilizzo_leve not in ['scadenza_pagamento']
+
+WARNING 2024-03-04 12:05:50 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 2e83ce20-429c-4a24-ba2c-2ee35c1b3163
+[tag uguali] chiamavamo per quanto riguarda appunto questa rata del 24 di luglio una rata scaduta ieri  FOUND IN S0: ok chiamavamo per quanto riguarda appunto questa rata del 24 di luglio una rata scaduta ieri siccome stavo facendo delle verifiche sui pagamenti
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:50 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 339fb98c-2d4a-47e8-8348-814a402018f5
+[tag uguali] dovrei fare un saldo di una rata  FOUND IN S10: io dovrei fare un saldo di una rata di Findomestic
+ 
+	 tag volonta_pagamento FOUND IN ['pagamento_non_effettuato', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 8c81639c-7efc-4ab4-933c-3c203921978d
+[tag uguali] io lo ricordo sempre telefonate verrà registrata consente sì sì lei e sua moglie è nata il FOUND IN S0: sì buongiorno chiamo da anticipare per conto Agos Ducato avevano parlato con lei per le due posizioni io lo ricordo sempre telefonate verrà registrata consente sì sì lei e sua moglie è nata il
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: fd461c38-7f43-427a-abcd-09472a7a8db6
+[tag diversi] la chiamata sempre registrata  FOUND IN S0: pronto signor Gennari Michele sì buongiorno signor Michele Scarcella chiamo dall' Italia da fare per conto di effettiva Bank per il contratto della marina la chiamata sempre registrata come dal sito e se c'è dentro punto it il giornale lei è nato a Manerbio e 9 10 85 giusto sì va beh Gennari lei l' altro giorno mi ha detto che il 10 aveva fatto il pagamento per quella rata di marzo non gliel' ho ancora non è arrivato nulla no niente
+ 
+	 tag rispetto_script not in []
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: fd461c38-7f43-427a-abcd-09472a7a8db6
+[tag diversi] lei l' altro giorno mi ha detto che il 10 aveva fatto il pagamento per quella rata di marzo non gliel' ho ancora non è arrivato nulla FOUND IN S0: pronto signor Gennari Michele sì buongiorno signor Michele Scarcella chiamo dall' Italia da fare per conto di effettiva Bank per il contratto della marina la chiamata sempre registrata come dal sito e se c'è dentro punto it il giornale lei è nato a Manerbio e 9 10 85 giusto sì va beh Gennari lei l' altro giorno mi ha detto che il 10 aveva fatto il pagamento per quella rata di marzo non gliel' ho ancora non è arrivato nulla no niente
+ 
+	 tag pagamento_effettuato not in []
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 9753903e-6d6f-49c6-897c-3cbe2bccb4eb
+[tag uguali] io non riesco a pagarlo in questo momento  FOUND IN S0: sto cercando di pagare anche se sono in grado di un non voto mettetevi banale ma io non riesco a pagarlo in questo momento in più non riesco a farlo
+ 
+	 tag difficolta_economiche FOUND IN ['difficolta_economiche']
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 9753903e-6d6f-49c6-897c-3cbe2bccb4eb
+[tag diversi] devo recuperare i soldi  FOUND IN S0: senza facendo lavori giusto che lo faccia come io cerco di fare il mio dovere ammazzare delle persone in questo momento che non ti pagano le devo recuperare i soldi non so neanche a chi rivolgermi gliel' abbiamo messo un avvocato e abbiamo messo tutto però abbiamo avuto dei problemi in questo momento faccio fatica con Tramonti così a pagare però i soldi parlando con lei purtroppo è con con la banca per per la casa cose che se va a vedere
+ 
+	 tag attesa_liquidita not in ['difficolta_economiche', 'potenziale_reclamo']
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 61bbfd4b-c580-4547-9b23-d8f7b6b17d69
+[tag uguali]  allora possiamo sentirci venerdì mattina che giorno è venerdì mattina 29 FOUND IN S1: allora possiamo sentirci venerdì mattina che giorno è venerdì mattina 29 enne ok se può magari potete attendere signora venerdì mattina e poi mi potete ricontattare così possiamo procedere
+ 
+	 tag chiede_rimanda_appuntamento FOUND IN ['chiede_rimanda_appuntamento']
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 61bbfd4b-c580-4547-9b23-d8f7b6b17d69
+[tag diversi]  venerdì mattina riesco a contattarlo FOUND IN S1: allora io io adesso devo chiedere se possono chiamarla loro direttamente altrimenti deve utilizzare questo numero lei che ha fatto va bene io ho già ho provato a chiamare ripeto ma non ha risposto nessuno comunque posso fare adesso chiedo responsabile vediamo se venerdì mattina riesco a contattarlo va bene grazie
+ 
+	 tag chiede_rimanda_appuntamento not in []
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 2c71b793-b4dc-47fc-af05-4302329aca85
+[tag diversi] la contatto per quanto riguarda un canone FOUND IN S0: sì pronto salve sono Perla e chiamo dall' Italia per conto di efficacia benché leasing dalla fine vorrei parlare con Mario De Vivo poi buongiorno la contatto per quanto riguarda un canone di un Doblò la informo che la chiamata sarà registrata per monitorare la qualità del servizio
+ 
+	 tag dettaglio_esposizione not in []
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 2c71b793-b4dc-47fc-af05-4302329aca85
+[tag diversi] la informo che la chiamata sarà registrata per monitorare la qualità del servizio FOUND IN S0: sì pronto salve sono Perla e chiamo dall' Italia per conto di efficacia benché leasing dalla fine vorrei parlare con Mario De Vivo poi buongiorno la contatto per quanto riguarda un canone di un Doblò la informo che la chiamata sarà registrata per monitorare la qualità del servizio
+ 
+	 tag rispetto_script not in []
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 2c71b793-b4dc-47fc-af05-4302329aca85
+[tag diversi] se mi fa avere anche una copia FOUND IN S0: i dati magari se mi fa avere anche una copia mi fa una cortesia logico
+ 
+	 tag richiesto_riscontro_di_pagamento not in []
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: a8152051-6532-496d-801f-62347e85134e
+[tag diversi] io lunedì una una lo pago e l' altra la paga a fine mese FOUND IN S12: e ho chiamato Agosti ma per sapere quando potevo fare diversamente mi hanno detto che avevate Bolgiana mia pratica ho qua io vi ho chiamato ma però mi avete messo in attesa e non va be è finita così a comunque io lunedì una una lo pago e l' altra la paga a fine mese
+ 
+	 tag data_pagamento not in []
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: a8152051-6532-496d-801f-62347e85134e
+[tag diversi]  io lo pago il 30 FOUND IN S12: sì ma a me non interessa signora voi comunque l' incassato immediatamente perché no il 30 quindi pagati signora col bollettino viene incassato immediatamente ci vogliono 3 giorni lavorativi signora per essere incassato a me non interessa che ci vogliono altri 8 giorni lavorativi signora se io lo pago il 30 il 30 viene pagato e poi voglio intestate dopo a me non interessa
+ 
+	 tag data_pagamento not in []
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 3fd41631-31c9-4910-baa1-124f2c50afab
+[tag diversi] lo chiama con ricevuta ho pagato quella lì FOUND IN S0: traduciamo tramite posta questo lo chiama con ricevuta ho pagato quella lì
+ 
+	 tag debito_gia_pagato not in []
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: ebea0bc4-3db4-4c31-a557-c09d996cb40f
+[tag diversi] mi paga a fine mese quando prende la pensione FOUND IN S0: no io non lo posso fare pagare mi paga a fine mese quando prende la pensione
+ 
+	 tag scadenza_pagamento not in ['tempistiche_introiti']
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 44716999-77b6-4858-840d-e4c8cee890e0
+[tag diversi] il controllo sulla devo informare telefonata verrà registrata acconsente FOUND IN S1: pronto buongiorno sono una manica cercavo il signor Arnesano Cosimo chiamo dall' Italia educato buongiorno buongiorno buongiorno contattare gli uffici fa il controllo sulla devo informare telefonata verrà registrata acconsente
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 44716999-77b6-4858-840d-e4c8cee890e0
+[tag uguali] : la telefonata verrà registrata consente FOUND IN S1: la telefonata verrà registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:51 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 44716999-77b6-4858-840d-e4c8cee890e0
+[tag diversi]  la questo documento va be' le dica questa persona parla di mandare la copia FOUND IN S1: ah va bene eventualmente lei non riesce a mandare anche qui la questo documento va be' le dica questa persona parla di mandare la copia
+ 
+	 tag richiesto_riscontro_di_pagamento not in []
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 233e6a53-c799-4bf5-973c-b14412d2274d
+[tag diversi] volevo sapere se era riuscita a effettuare il pagamento FOUND IN S0: anche le ricordo l' informativa si trova sul sito file volevo sapere se era riuscita a effettuare il pagamento della della rata signora Maria da Catania
+ 
+	 tag pagamento_effettuato not in []
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: b4d54ecc-e3bb-47f9-819b-8a0e00ef8421
+[tag uguali] rata di giugno di 213 euro più mille 343 euro  FOUND IN S0: rata di giugno di 213 euro più mille 343 euro per quanto riguarda la carta plus e l' altra carta non si può
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: b4d54ecc-e3bb-47f9-819b-8a0e00ef8421
+[tag uguali] infatti il debito una rata era di 213 ma lui è salito a mille e trecento euro FOUND IN S0: infatti il debito una rata era di 213 ma lui è salito a mille e trecento euro
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: b4d54ecc-e3bb-47f9-819b-8a0e00ef8421
+[tag diversi] con carta di credito in agenzia possiamo andare a fare il pagamento FOUND IN S11: quindi con carta di credito in agenzia possiamo andare a fare il pagamento
+ 
+	 tag dettagli_modalita_pagamento not in []
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: b4d54ecc-e3bb-47f9-819b-8a0e00ef8421
+[tag diversi] da mille 556 e l' altra relativa 412 FOUND IN S11: prendiamo questa da mille 556 e l' altra relativa 412 sì ok passiamo direttamente nel caso in agenzia alla va bene
+ 
+	 tag dettaglio_esposizione not in []
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 02e4b37e-438e-4f5f-9612-1b6b82147db0
+[tag uguali]  e la devo informare la telefonata verrà registrata consente FOUND IN S0: buona sera lo contattò agli uffici fare per conto agosto e la devo informare la telefonata verrà registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 02e4b37e-438e-4f5f-9612-1b6b82147db0
+[tag uguali]  la telefonata verrà registrata il consenso alla registrazione devo staccare la registrazione no ok lei è nato il FOUND IN S0: la telefonata verrà registrata il consenso alla registrazione devo staccare la registrazione no ok lei è nato il
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 02e4b37e-438e-4f5f-9612-1b6b82147db0
+[tag diversi] contatto per le 3 rate da 63 euro e la sua attività FOUND IN S0: comunque trovato molto bene okay può visionare sì informativa sul sito della farfalla contatto per le 3 rate da 63 euro e la sua attività
+ 
+	 tag dettaglio_esposizione not in []
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 02e4b37e-438e-4f5f-9612-1b6b82147db0
+[tag uguali] non hanno pagato nel maggio giugno e luglio FOUND IN S0: perché non hanno pagato nel maggio giugno e luglio
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 02e4b37e-438e-4f5f-9612-1b6b82147db0
+[tag uguali] hanno provato a prendere 126 euro FOUND IN S0: ma non è passato perché loro hanno fatto il tentativo il venti maggio e non non è passato dopodiché il venti di giugno hanno provato a prendere 126 euro per la scadenza di maggio e giugno però ora la il RID non ce l' ha più attivo perché decaduta in automatico
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 02e4b37e-438e-4f5f-9612-1b6b82147db0
+[tag uguali]  se lei mi manda il bollettino io lo posso pure pagare immediatamente FOUND IN S11: ah ho capito ecco perché va bene se lei mi manda il bollettino io lo posso pure pagare immediatamente troppo bene
+ 
+	 tag volonta_pagamento FOUND IN ['volonta_pagamento']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 02e4b37e-438e-4f5f-9612-1b6b82147db0
+[tag uguali] sto inviando sono le 3 rate maggio giugno e luglio FOUND IN S0: ok glielo sto inviando sono le 3 rate maggio giugno e luglio
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: b71b3369-db3b-45cc-a3fe-939b47772d54
+[tag uguali]  per quel bonifico delle 3 rate da 63 euro FOUND IN S11: e devo dire anche informativa sul sulla carta e noi la chiamavamo per quel bonifico delle 3 rate da 63 euro
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: b71b3369-db3b-45cc-a3fe-939b47772d54
+[tag uguali] anche più tardi se manda la copia anche tramite posta o e-mail FOUND IN S11: posso chiedere una gentilezza quando ha un attimo anche più tardi se manda la copia anche tramite posta o e-mail quello che le viene più semplice
+ 
+	 tag richiesto_riscontro_di_pagamento FOUND IN ['richiesto_riscontro_di_pagamento']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: b71b3369-db3b-45cc-a3fe-939b47772d54
+[tag uguali] lei mi mandi la copia FOUND IN S11: ah e allora no non si preoccupi dovrebbe lei mi mandi la copia che io la giro all' ufficio contabile
+ 
+	 tag richiesto_riscontro_di_pagamento FOUND IN ['richiesto_riscontro_di_pagamento']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 115d87e0-5c46-43d6-a9bc-e83aff87de73
+[tag uguali]  quindi il mio problema lei devo informarla che la telefonata verrà registrata consente FOUND IN S0: quindi il mio problema lei devo informarla che la telefonata verrà registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 115d87e0-5c46-43d6-a9bc-e83aff87de73
+[tag uguali]  sì ci sono 2 rate da 206 euro e altre 2 dell' altra carta FOUND IN S0: ok avevo bisogno si informativa sul te la farfalla sì ci sono 2 rate da 206 euro e altre 2 dell' altra carta
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 424e2cb8-eaca-48df-a7c0-071b4fbddf90
+[tag uguali] le ricordo della registrazione della chiamata  FOUND IN S0: sì ok allora sultanato innanzitutto le ricordo della registrazione della chiamata al call center
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 424e2cb8-eaca-48df-a7c0-071b4fbddf90
+[tag uguali] non credo che però non riesco a farlo perché se c'è qualcuno che mi portava i soldi e non sono venuto in possesso FOUND IN S14: no io non non credo che però non riesco a farlo perché se c'è qualcuno che mi portava i soldi e non sono venuto in possesso basta
+ 
+	 tag difficolta_economiche FOUND IN ['difficolta_economiche']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: f7c59ce5-41f9-45f7-b67e-99ea880b07ba
+[tag uguali] la informo che la telefonata verrà registrata  FOUND IN S0: buongiorno la contattare gli uffici fa la informo che la telefonata verrà registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script', 'presentazione_societa']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: f7c59ce5-41f9-45f7-b67e-99ea880b07ba
+[tag uguali] lei quando quindi si può pagare quella da 5 31  FOUND IN S0: lei quando quindi si può pagare quella da 5 31 però bisogna capire lei quando effettua il pagamento
+ 
+	 tag volonta_risolutiva FOUND IN ['volonta_risolutiva']
+
+WARNING 2024-03-04 12:05:52 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: f7c59ce5-41f9-45f7-b67e-99ea880b07ba
+[tag diversi] entro venerdì devo pagare allora FOUND IN S14: entro venerdì devo pagare allora
+ 
+	 tag data_pagamento not in ['volonta_pagamento']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 44a3b240-4dce-421a-ac93-38eae6f1c802
+[tag uguali] la contatto per le 2 rate da 206 euro giugno e luglio del suo conto di sì FOUND IN S0: poiché non vi sono altre informativa sul sito della persona la contatto per le 2 rate da 206 euro giugno e luglio del suo conto di sì
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 44a3b240-4dce-421a-ac93-38eae6f1c802
+[tag diversi] lo paga il venerdì 29 FOUND IN S0: però le devo dire proprio fine mese fine mese lei che intende perché se lei lo paga il venerdì 29 non rientra nel mese il bollettino vogliono almeno 3 giorni di incasso ecco per questo io le dico
+ 
+	 tag scadenza_pagamento not in ['volonta_risolutiva']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 44a3b240-4dce-421a-ac93-38eae6f1c802
+[tag uguali] può pagare tramite il link che lei clicca su quelle interne FOUND IN S0: se lei ha una carta di credito Postepay può pagare tramite il link che lei clicca su quelle interne
+ 
+	 tag estremi_di_pagamento FOUND IN ['estremi_di_pagamento']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 446733cf-ae06-419c-960f-96fc69edbcd3
+[tag uguali] poterci girare la copia FOUND IN S0: ah ok allora le mando un numero di pozzo dove poterci girare la copia anche più tardi quando ha un attimo
+ 
+	 tag richiesto_riscontro_di_pagamento FOUND IN ['richiesto_riscontro_di_pagamento']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: e90d0f1b-7927-4c20-9bbb-55efa2e8abe5
+[tag diversi] la devo informare di una telefonata verrà registrata consente ok lei è nata il FOUND IN S0: eh sì lei è la signora lungo Florenta sì sì sì buongiorno la stanno chiamando gli uffici fare per quanto agosto educato la devo informare di una telefonata verrà registrata consente ok lei è nata il
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: e90d0f1b-7927-4c20-9bbb-55efa2e8abe5
+[tag diversi] per le 2 rate da 168 euro FOUND IN S1: 10 sei 74 ok non vi sono altre informativa sul sito della festa la contattavo per le 2 rate da 168 euro della attiva benissimo se il 27 come al solito come faccio sempre ogni 2 mesi il 27 mi manda lì che ho la pago subito il 27 va bene allora glielo mando direttamente il giorno 27 signora ma basta che sia il 27 perché mi sembra ventisei però non il 26 sì perché mi avevano fatto anche così il 27 io faccio subito va bene grazie glielo mando niente grazie a lei salve buongiorno
+ 
+	 tag dettaglio_esposizione not in ['data_pagamento']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: e90d0f1b-7927-4c20-9bbb-55efa2e8abe5
+[tag uguali] mi manda lì che ho la pago subito il 27 FOUND IN S1: 10 sei 74 ok non vi sono altre informativa sul sito della festa la contattavo per le 2 rate da 168 euro della attiva benissimo se il 27 come al solito come faccio sempre ogni 2 mesi il 27 mi manda lì che ho la pago subito il 27 va bene allora glielo mando direttamente il giorno 27 signora ma basta che sia il 27 perché mi sembra ventisei però non il 26 sì perché mi avevano fatto anche così il 27 io faccio subito va bene grazie glielo mando niente grazie a lei salve buongiorno
+ 
+	 tag data_pagamento FOUND IN ['data_pagamento']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 3c1deda2-dfb6-4f5d-980c-f4d672421980
+[tag uguali] come posso fare a pagare FOUND IN S1: come posso fare a pagare se posso inviarle domani mattina via Cremona posso pagare lì
+ 
+	 tag volonta_pagamento FOUND IN ['data_pagamento', 'dettagli_modalita_pagamento', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 3c1deda2-dfb6-4f5d-980c-f4d672421980
+[tag diversi] che l' importo è 42 41 FOUND IN S0: come vuole però guardi che l' importo è 42 41 preciso io lì oppure le posso inviare entrambi come vuole lei signora Grande le mando sempre mi per fare il bonifico che è lì che lei vede quale le viene meglio non lo so
+ 
+	 tag dettaglio_esposizione not in []
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 3c1deda2-dfb6-4f5d-980c-f4d672421980
+[tag diversi] lei fa il pagamento perché sono link FOUND IN S0: scusa solo un attimo quando le arriverà il link però se non paga subìto non lo avrà lo avrà direttamente quando lei fa il pagamento perché sono link che funzionano così che lei quando deve fare subito il pagamento altrimenti lo può aprire domani
+ 
+	 tag estremi_di_pagamento not in []
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 96361e98-2269-4d9e-87d3-3ce687f1f6ad
+[tag uguali] la telefonata verrà registrata  FOUND IN S0: sì io ho operato scusate un attimo devo informare che la telefonata verrà registrata al call center
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 7546c6d1-bbef-4a96-a3a9-f63f92b03597
+[tag uguali] allora dovrebbe mandarci la copia FOUND IN S0: e allora dovrebbe mandarci la copia per il rintraccio
+ 
+	 tag richiesto_riscontro_di_pagamento FOUND IN ['richiesto_riscontro_di_pagamento']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 79b3d7e4-1793-4ec3-9bf5-128fff0d7a82
+[tag diversi] la informo alla telefonata verrà registrata FOUND IN S1: sì salve sono io buongiorno signora da contattare gli uffici fare la informo alla telefonata verrà registrata al call center
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 79b3d7e4-1793-4ec3-9bf5-128fff0d7a82
+[tag uguali] domani io un bollettino vado a pagare questo bollettino FOUND IN S0: no io sono già al corrente praticamente domani io un bollettino vado a pagare questo bollettino
+ 
+	 tag data_pagamento FOUND IN ['data_pagamento', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: fb3e66ad-5246-440f-b655-417a904aee2e
+[tag uguali] la devo informare che la telefonata verrà registrata FOUND IN S1: la devo informare che la telefonata verrà registrata al call center
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 22aa3fc6-d128-4aa6-92e3-f494b687d4a0
+[tag uguali] la devo informare che la telefonata verrà registrata  FOUND IN S16: io la devo informare che la telefonata verrà registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 22aa3fc6-d128-4aa6-92e3-f494b687d4a0
+[tag diversi] per la rata della 78 euro che scadeva  FOUND IN S16: che bisogna essere informati assunzione la farfalla e il collega mi ha detto di richiamarla per la rata della 78 euro che scadeva il gas
+ 
+	 tag presentazione_prodotto not in []
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 22aa3fc6-d128-4aa6-92e3-f494b687d4a0
+[tag uguali] appena rientro pago assolutamente tutto  FOUND IN S10: no non ho fatto neanche quello non ho fatto neanche quello appena rientro pago assolutamente tutto perché ero convinta con il discorso dell' IBAN e quindi è un caos va be' allora lei ce la fa a mandarglielo intanto quella di 76
+ 
+	 tag volonta_pagamento FOUND IN ['volonta_pagamento']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 62989d1f-ee5d-498b-b790-e71e190a4638
+[tag uguali] non ce la faccio a pagarla FOUND IN S12: che io avevo chiamato perché ho bisogno di fissare un appuntamento ho mandato via e mail o tramite il sito in agenzia perché avevo bisogno per avere delle difficoltà economiche di rinegoziare Enel energia elettrica sì è la cifra attuale che io non ce la faccio a pagarla completamente quindi volevo un attimo vedere se era possibile prolungare il il la la la la data è molto più la rata più bassa
+ 
+	 tag difficolta_economiche FOUND IN ['difficolta_economiche', 'richiesta_agevolazione']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: fb1c5ea3-fb22-4c15-a29f-66e11294837c
+[tag diversi] io devo pagare 42 euro circa insomma me lo conferma FOUND IN S1: dietro siccome io devo pagare 42 euro circa insomma me lo conferma non è che mi può mandare lei così le faccio il pagamento immediato perché ho sentito venerdì la collega gli avevo detto che sarei passato da Cremona e invece non ce l' ho fatta se mi faceva così mi
+ 
+	 tag maggiori_dettagli_debito not in ['volonta_pagamento']
+
+WARNING 2024-03-04 12:05:53 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: fb1c5ea3-fb22-4c15-a29f-66e11294837c
+[tag uguali]  le mando il link FOUND IN S0: va bene allora le mando il link
+ 
+	 tag estremi_di_pagamento FOUND IN ['estremi_di_pagamento']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 6198f7c1-571c-4adf-82ec-73e6c66be466
+[tag diversi]  la informo che la telefonata verrà sempre registrata al call center FOUND IN S1: salve sono la manica dagli uffici faida per conto Agos Ducato la informo che la telefonata verrà sempre registrata al call center
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: bd5fab90-8f21-4411-9b75-ef83d5eb6ffb
+[tag uguali] la devo informare la telefonata verrà registrata FOUND IN S0: salve signora Tamburrini la devo informare la telefonata verrà registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: bd5fab90-8f21-4411-9b75-ef83d5eb6ffb
+[tag uguali] dovevo fare pagamento ma non ancora non l' ho fatto FOUND IN S1: che dovevo fare pagamento ma non ancora non l' ho fatto
+ 
+	 tag pagamento_non_effettuato FOUND IN ['pagamento_non_effettuato']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 06a14fe0-269d-48ac-abf2-29427789ad08
+[tag diversi] la telefonata verrà registrata  FOUND IN S1: buongiorno mi scusi il disturbo la contatterà agli uffici farla ma la telefonata verrà registrata con center
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 06a14fe0-269d-48ac-abf2-29427789ad08
+[tag diversi] lei aveva riferito di aver effettuato dei pagamenti di due posizioni però ad oggi non c'è  FOUND IN S1: ok praticamente informativa sul sulla scarpa la disturbiamo perché giorno 4 lei aveva riferito di aver effettuato dei pagamenti di due posizioni però ad oggi non c'è lui
+ 
+	 tag pagamento_non_effettuato not in []
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 06a14fe0-269d-48ac-abf2-29427789ad08
+[tag uguali] il pagamento lo può fare solo con vaglia ordinario FOUND IN S1: però il pagamento lo può fare solo con vaglia ordinario non più link nel bollettino perché siamo fine mese
+ 
+	 tag estremi_di_pagamento FOUND IN ['estremi_di_pagamento']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 06a14fe0-269d-48ac-abf2-29427789ad08
+[tag uguali] le manderò un messaggio dove ci sono degli estremi per fare il vaglia di tutte e 2 le posizioni sono 361 e 95  FOUND IN S1: l' unico mezzo veloce in questo momento è il vaglia ordinario io le manderò un messaggio dove ci sono degli estremi per fare il vaglia di tutte e 2 le posizioni sono 361 e 95 più l' altra
+ 
+	 tag estremi_di_pagamento FOUND IN ['estremi_di_pagamento']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 06a14fe0-269d-48ac-abf2-29427789ad08
+[tag uguali] eventualmente mandi le copie di questi 2 bollettini FOUND IN S1: però signor Favarato eventualmente mandi le copie di questi 2 bollettini di cui parla lei perché anche noi possiamo passare ad un rintraccio perché era il giorno 4 ad oggi io un po' mi preoccuperei capire effettivamente il tabacchino che ha fatto
+ 
+	 tag richiesto_riscontro_di_pagamento FOUND IN ['richiesto_riscontro_di_pagamento']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 06a14fe0-269d-48ac-abf2-29427789ad08
+[tag uguali] chiedo la gentilezza di mandare le copie se trova questi 2 bollettini  FOUND IN S1: ognuno deve fare il vaglia le chiedo la gentilezza di mandare le copie se trova questi 2 bollettini di cui parla lei ci mandi anche quelli che noi dobbiamo
+ 
+	 tag richiesto_riscontro_di_pagamento FOUND IN ['richiesto_riscontro_di_pagamento']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: caf74ae0-7bfb-4e90-ac4b-ccf94925f3e5
+[tag uguali] chiamo dall' Italia  FOUND IN S0: eh sì buonasera sono una manica cercavano la signora Musseddu ada chiamo dall' Italia per nuova procedura buongiorno salve signora io la devo informare sempre telefonata verrà registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: caf74ae0-7bfb-4e90-ac4b-ccf94925f3e5
+[tag uguali] la devo informare sempre telefonata verrà registrata  FOUND IN S0: eh sì buonasera sono una manica cercavano la signora Musseddu ada chiamo dall' Italia per nuova procedura buongiorno salve signora io la devo informare sempre telefonata verrà registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 300de3b9-da4b-4946-8c9e-3ce6d70a112f
+[tag diversi] chiamo dall' Italia  FOUND IN S0: chiamo dall' Italia per continua così educato sì mi dica buongiorno mi scusi il disturbo la contattare gli uffici farcela entro una telefonata verrà registrata acconsente
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 300de3b9-da4b-4946-8c9e-3ce6d70a112f
+[tag uguali] il bonifico ho capito eventualmente se ha modo di mandare la copia  FOUND IN S0: quindi venerdì scorso ma in tabacchino posta cos' era un bonifico ha fatto il bonifico ho capito eventualmente se ha modo di mandare la copia anche tramite Buzzatto più tardi le posso inviare al numero
+ 
+	 tag richiesto_riscontro_di_pagamento FOUND IN ['richiesto_riscontro_di_pagamento']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: f6337633-b857-4c36-ba87-4a8c40605ec1
+[tag diversi] la informo la telefonata verrà registrata call center no non c'è bisogno FOUND IN S0: pronto buongiorno sono la Monica chiamo dall' Italia per conto agosto cercavano la signora Bragagnolo Raffaella io sono io buongiorno signora la contatta gli uffici fare la informo la telefonata verrà registrata call center no non c'è bisogno
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 4de54a99-81d7-4b79-9ee8-c29b35a077e6
+[tag uguali] io la informo prima di proseguire la chiamata sarà registrata  FOUND IN S0: salve signor la Rosa io la informo prima di proseguire la chiamata sarà registrata per monitorare la qualità del servizio se mi conferma l' anagrafica è nato in data
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 5101eedc-0851-4b58-8d48-5afc31991e3f
+[tag uguali] la informo che la chiamata sarà registrata  FOUND IN S0: però non riesco a mandarglielo via via allo stato aspetti un attimo ora le dico allora intanto la informo che la chiamata sarà registrata per monitorare la qualità del servizio lei è nato a Milano in che data 14 4 51 ok lei ha la raccomandata sottomano per darmi il numero e segue la traccia da lì
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 1d2a622c-453f-4c9c-b3e0-5fbb588acd5e
+[tag uguali] la devo informare la telefonata verrà registrato  FOUND IN S12: sì la devo informare la telefonata verrà registrato al call center
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 1d2a622c-453f-4c9c-b3e0-5fbb588acd5e
+[tag uguali] allora farò il bonifico e domani  FOUND IN S0: per ragazze a rimettere la ragazza e la signorina ha detto guarda siamo è a rischio potrebbe portare una coperta di sì e io sono andato in vacanza non lo richiamai spiegheranno chiusi gli uffici quindi ho dato per scontato che era a posto allora farò il bonifico e domani andrò a vedere a che punto è per forza
+ 
+	 tag data_pagamento FOUND IN ['data_pagamento']
+
+WARNING 2024-03-04 12:05:54 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 1d2a622c-453f-4c9c-b3e0-5fbb588acd5e
+[tag uguali] le mando le coordinate per fare il bonifico FOUND IN S12: e allora le mandate voi ad agosto di mezzo sì sicuramente ve le mando le coordinate per fare il bonifico
+ 
+	 tag estremi_di_pagamento FOUND IN ['estremi_di_pagamento']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 76f7dd15-ec53-4f62-ab40-2d0609ab44ec
+[tag diversi] la contatto per quanto riguarda quel bonifico  FOUND IN S0: punto Agos buonasera la contatto per quanto riguarda quel bonifico però prima la devo informare sempre telefonata verrà registrata consente
+ 
+	 tag presentazione_prodotto not in ['rispetto_script']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 76f7dd15-ec53-4f62-ab40-2d0609ab44ec
+[tag uguali] la devo informare sempre telefonata verrà registrata  FOUND IN S0: punto Agos buonasera la contatto per quanto riguarda quel bonifico però prima la devo informare sempre telefonata verrà registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 0f13b91c-1580-422a-a967-65c017e56d3f
+[tag uguali] la informo che la chiamata sarà registrata  FOUND IN S0: la contatto per quanto concerne la posizione in corso e la informo che la chiamata sarà registrata per monitorare la qualità del servizio posso andare avanti
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 586ea550-0cef-48e5-b436-7f259ba04aab
+[tag uguali] la telefonata verrà registrata  FOUND IN S10: mentre la telefonata verrà registrata prima
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 586ea550-0cef-48e5-b436-7f259ba04aab
+[tag diversi] sto dicendo che il pagamento è stato effettuato  FOUND IN S0: al giudice quello che vuoi registri quello che vuole mi dica quello che devo fare è arrivato 'sto punto 2 massimo 8 giusto io gli sto dicendo che il pagamento è stato effettuato cosa devo fare mi dica
+ 
+	 tag debito_gia_pagato not in []
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: fa0a1e95-1a9a-4a6c-9d38-ee10b9f9a46f
+[tag diversi] chiamo dall' Italia  FOUND IN S0: sì buongiorno sono la signora De Salvo chiamo dall' Italia da salire verso mezzogiorno Bresich signor Cecchini Giorgiolini salvo che sono io salve salve se Cecchini la informo che la chiamata potrebbe essere registrata consente la registrazione ok
+ 
+	 tag rispetto_script not in []
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: fa0a1e95-1a9a-4a6c-9d38-ee10b9f9a46f
+[tag diversi] la informo che la chiamata potrebbe essere registrata consente la registrazione  FOUND IN S0: sì buongiorno sono la signora De Salvo chiamo dall' Italia da salire verso mezzogiorno Bresich signor Cecchini Giorgiolini salvo che sono io salve salve se Cecchini la informo che la chiamata potrebbe essere registrata consente la registrazione ok
+ 
+	 tag rispetto_script not in []
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: fa0a1e95-1a9a-4a6c-9d38-ee10b9f9a46f
+[tag uguali] in merito alla rata da 39 euro non è andato a buon fine il prelievo il 5 agosto FOUND IN S0: in merito alla rata da 39 euro non è andato a buon fine il prelievo il 5 agosto
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: fa0a1e95-1a9a-4a6c-9d38-ee10b9f9a46f
+[tag diversi] le devo chiedere su se possiamo fare per il 24 quando mi arriva lo stipendio  FOUND IN S12: ok guardi le devo chiedere su se possiamo fare per il 24 quando mi arriva lo stipendio la pago
+ 
+	 tag prospettiva_temporale not in ['attesa_liquidita', 'data_pagamento', 'ha_fonti_reddito', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: fa0a1e95-1a9a-4a6c-9d38-ee10b9f9a46f
+[tag uguali] quando mi arriva lo stipendio  FOUND IN S12: ok guardi le devo chiedere su se possiamo fare per il 24 quando mi arriva lo stipendio la pago
+ 
+	 tag attesa_liquidita FOUND IN ['attesa_liquidita', 'data_pagamento', 'ha_fonti_reddito', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: fa0a1e95-1a9a-4a6c-9d38-ee10b9f9a46f
+[tag uguali] quando mi arriva lo stipendio la pago FOUND IN S12: ok guardi le devo chiedere su se possiamo fare per il 24 quando mi arriva lo stipendio la pago
+ 
+	 tag volonta_pagamento FOUND IN ['attesa_liquidita', 'data_pagamento', 'ha_fonti_reddito', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 3f925397-afff-44b7-9b90-f59617ac300b
+[tag diversi] le 3 rate scadute da 30 euro FOUND IN S1: ok mi avvisate l' informativa signora per fa la diamo per le 3 rate scadute da 30 euro
+ 
+	 tag dettaglio_esposizione not in ['pagamento_non_effettuato']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 3f925397-afff-44b7-9b90-f59617ac300b
+[tag diversi] farò il bonifico FOUND IN S0: farò il bonifico
+ 
+	 tag dettagli_modalita_pagamento not in ['volonta_risolutiva', 'estremi_di_pagamento']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 65f2efa3-83a5-4ee4-8c13-faeabcb84217
+[tag diversi] la devo informare che la telefonata verrà registrata FOUND IN S0: chi adesso qui cos' è la contatto per quanto riguarda la scadenza della rata del venti da 93 euro però prima la devo informare che la telefonata verrà registrata consente
+ 
+	 tag rispetto_script not in ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 65f2efa3-83a5-4ee4-8c13-faeabcb84217
+[tag diversi] la contatto per quanto riguarda la scadenza della rata del venti da 93 euro FOUND IN S0: chi adesso qui cos' è la contatto per quanto riguarda la scadenza della rata del venti da 93 euro però prima la devo informare che la telefonata verrà registrata consente
+ 
+	 tag presentazione_prodotto not in ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 65f2efa3-83a5-4ee4-8c13-faeabcb84217
+[tag diversi] la devo informare che la telefonata verrà registrata  FOUND IN S0: chi adesso qui cos' è la contatto per quanto riguarda la scadenza della rata del venti da 93 euro però prima la devo informare che la telefonata verrà registrata consente
+ 
+	 tag rispetto_script not in ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 73dc5748-27e6-4296-80ec-3f664eb25997
+[tag diversi] chiamo dall' Italia FOUND IN S0: sì buongiorno sono la signora De Salvo chiamo dall' Italia da fare per conto Findomestic e il signor Caccaro Antonio
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 73dc5748-27e6-4296-80ec-3f664eb25997
+[tag uguali] la informo che la chiamata potrebbe essere registrata  FOUND IN S0: salve la informo che la chiamata potrebbe essere registrata consenso alla registrazione
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 74715a09-592f-4881-b8ef-b7e89c8eddcd
+[tag diversi] la informo che la telefonata verrà registrata  FOUND IN S1: è pronto buongiorno cercavo la signora Casares Romina Vanessa sì salve sono la Monica dagli uffici fare per conto Agos sì mi dica la informo che la telefonata verrà registrata con center ok lei è il marito
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 74715a09-592f-4881-b8ef-b7e89c8eddcd
+[tag diversi] il pagamento e in effetti io l' ho già effettuato FOUND IN S0: no perché quello che mi è arrivato quello lì era il conto qui mi è arrivato il messaggio sul cellulare e poi il pagamento e in effetti io l' ho già effettuato dopo avrei una rata di una carta di 153 euro
+ 
+	 tag debito_gia_pagato not in []
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 2cec9b5e-0ec9-44c3-b35c-17f4747cbde1
+[tag diversi] chiamo dall' Italia FOUND IN S0: sì buongiorno sono la signora De Salvo chiamo dall' Italia da fare per conto di Findomestic e la signora Sardelli Maria Carla
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 2cec9b5e-0ec9-44c3-b35c-17f4747cbde1
+[tag uguali] per quanto riguarda le 2 rate da 111 e da 96  FOUND IN S0: eh signora e per quanto riguarda le 2 rate da 111 e da 96 attendavamo riscontro dei pagamenti
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 2cec9b5e-0ec9-44c3-b35c-17f4747cbde1
+[tag uguali] vado subito poi a pagare la quota di agosto FOUND IN S10: devo andare perché era lei che mi chiama con cui ho parlato che mi era arrivata la raccomandata perché io pensavo di averlo già sul conto e invece ho telefonato forse era appena fatto quel giorno il 16 e allora hanno detto che non c' erano ancora quei e quei soldi che mi dovevano arrivare per cui aspetto perché la tabaccheria adesso forse apre domani giovedì che erano chiuse in questi giorni per il Ferragosto e vado subito poi a pagare la quota di agosto ecco
+ 
+	 tag volonta_pagamento FOUND IN ['pagamento_non_effettuato', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 2cec9b5e-0ec9-44c3-b35c-17f4747cbde1
+[tag diversi] deve ancora attendere che le accreditano questi soldi FOUND IN S0: ok signora quindi mi perdoni non ho capito va domani o deve ancora attendere che le accreditano questi soldi
+ 
+	 tag tempistiche_introiti not in []
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: d90dc709-e033-4dc5-a5c4-3155f917f24a
+[tag diversi] chiamo dall' Italia FOUND IN S0: sì buonasera sono la signora De Salvo chiamo dall' Italia da fare per conto di Findomestic Maurizio Teodosio
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:55 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: d90dc709-e033-4dc5-a5c4-3155f917f24a
+[tag uguali] per la rata da 90 euro non è stata pagata il 5 agosto FOUND IN S0: cioè per la rata da 90 euro non è stata pagata il 5 agosto
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 60c822da-7ef0-494e-8b18-c18ce5dfab34
+[tag uguali] la informo sempre telefonata verrà registrata  FOUND IN S0: sì pronto buongiorno sono una manica cercavo il signor Grassi Angelo Antonio buongiorno signor Gazzola contattare gli uffici fai la informo sempre telefonata verrà registrata consente
+ 
+	 tag rispetto_script FOUND IN ['presentazione_societa', 'rispetto_script']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 71e15d3b-b0f7-44a0-aca2-a6d1d431a555
+[tag uguali] chiamo dall' Italia FOUND IN S20: sì buongiorno buongiorno buongiorno sono la signora De Salvo chiamo dall' Italia da fare per conto di Findomestic la signora Gheorghe e Doinita sì sì sì sì io ci sono sì mi dica signora sì signora la informo che la chiamata potrebbe essere registrata il consenso alla registrazione
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 71e15d3b-b0f7-44a0-aca2-a6d1d431a555
+[tag uguali] cerco di fare il bonifico FOUND IN S0: duecento 42 virgola 19 duecento 242 virgola 19 e come scrivo sempre in questo periodo cerco di fare il bonifico ma non riesco mai da da capire come scrivono
+ 
+	 tag volonta_pagamento FOUND IN ['volonta_pagamento']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: cd6d79fe-73d8-4e47-b7a9-6835a8fdb945
+[tag diversi] sì ho pagato  FOUND IN S0: sì ho pagato 55 0 3
+ 
+	 tag debito_gia_pagato not in ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 8c8b4ef6-c145-438e-9768-336ed06a3974
+[tag uguali] le informo che la chiamata potrebbe essere registrata  FOUND IN S0: pronto sì buongiorno sono la signora De Salvo chiamo da ripartire da fare per conto di Findomestic e il signor simpatico Flavio si sono io mi dica salve le informo che la chiamata potrebbe essere registrata consente la registrazione
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script', 'presentazione_societa']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 8c8b4ef6-c145-438e-9768-336ed06a3974
+[tag uguali] per quanto riguarda gli estremi per questo tipo di pagamento come bisogna fare  FOUND IN S26: per quanto riguarda gli estremi per questo tipo di pagamento come bisogna fare in base ad un messaggio
+ 
+	 tag dettagli_modalita_pagamento FOUND IN ['dettagli_modalita_pagamento']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 9d8831b6-d973-4a3a-8773-f2f1f194074e
+[tag diversi] chiamo dall' Italia  FOUND IN S0: sì buona sera sono la signora De Salvo chiamo dall' Italia da fare per conto di Findomestic e il signor Trevisan Ettorre Michele
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 9d8831b6-d973-4a3a-8773-f2f1f194074e
+[tag diversi] l' importo è 115 virgola 50  FOUND IN S0: certo glielo mando subito signor Trevisan l' importo è 115 virgola 50 al momento di fare il pagamento al signor Trevisan faccia attenzione all' importo che coincideva con quello del messaggio che a volte sbagliano va bene
+ 
+	 tag dettaglio_esposizione not in []
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 7fbc7c45-3ed0-4b24-a593-17cc963de448
+[tag uguali] cortesemente mi manda le coordinate  FOUND IN S22: sì cortesemente mi manda le coordinate le faccio le varie
+ 
+	 tag dettagli_modalita_pagamento FOUND IN ['dettagli_modalita_pagamento', 'maggiori_dettagli_debito']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 20557a5a-e590-4761-8019-895883b0fb5c
+[tag uguali] la informo telefonata verrà registrata  FOUND IN S0: buonasera la contattò gli uffici fai la informo telefonata verrà registrata con center
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script', 'presentazione_societa']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 131beb60-dab9-488f-af04-67d3ef173998
+[tag diversi] il 19 è stato fatto il bonifico FOUND IN S0: il 19 è stato fatto il bonifico
+ 
+	 tag debito_gia_pagato not in ['data_pagamento']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 131beb60-dab9-488f-af04-67d3ef173998
+[tag diversi] da 90 pago FOUND IN S0: ma non solamente da 90 pago anche l' estinzione della carta e tutto il resto voglio dire
+ 
+	 tag dettaglio_esposizione not in ['rifiuta_pagamento']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 131beb60-dab9-488f-af04-67d3ef173998
+[tag diversi] mi fanno il saldo del conto parole 90 euro per subito dopo però poi sono del 90 euro FOUND IN S0: insomma voglio dire abbiamo avuto già tanti anni fa sta facendo davanti le ripeto come come come come arriva questa liberatoria e mi fanno il saldo del conto parole 90 euro per subito dopo però poi sono del 90 euro e farò anche l' estinzione della carta
+ 
+	 tag dettaglio_esposizione not in ['attesa_liquidita', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:56 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 131beb60-dab9-488f-af04-67d3ef173998
+[tag diversi] noi come 53 ci ci vengono tolte l' ultimo giorno utile per noi è il 29 FOUND IN S44: noi siamo un ufficio di recupero quindi non abbiamo tutto il tempo la pratica in gestione quindi noi come 53 ci ci vengono tolte l' ultimo giorno utile per noi è il 29 quindi poi giornata nera ritornerà in sede di Milano quindi non solo loro
+ 
+	 tag dettaglio_esposizione not in ['utilizzo_leve']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 57dd2637-9cd2-464e-8a29-77698767feae
+[tag diversi] chiamo dall' Italia  FOUND IN S1: sì buongiorno sono la signora De Salvo chiamo dall' Italia Raffaele per conto di Findomestic essere Adinolfi Maria
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: f343d8d6-eff8-4ba9-96e8-ce6a1e5bdb0f
+[tag uguali] la devo informare sempre telefonata verrà registrata  FOUND IN S0: mi sente sì però le chiedo scusa solo un attimo la devo informare sempre telefonata verrà registrata al call center ok
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: c3d7b81d-73f0-443e-a917-49e8270a2c2c
+[tag diversi] venerdì le faccio questo pagamento  FOUND IN S0: e allora lo dovrebbe sollecitare l' invio di questi bollettini intanto lo avverto che lei non ha mai ricevuto nulla vediamo se riesco a io credo di aver prima di venerdì le faccio questo pagamento immediatamente va bene le invio sia il codice per pagarla in tabacchino sia il codice per pagarlo grazie a lei salve dal Di Bella salve la saluto
+ 
+	 tag data_pagamento not in ['contestazione']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 17100417-fdac-4e03-9400-6c60a6dc4d6d
+[tag diversi] chiamo dall' Italia  FOUND IN S1: sì buongiorno sono la Monica cercavano la signora bolletta Francesca e chiamo dall' Italia abbiamo io a questo educato buongiorno
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 17100417-fdac-4e03-9400-6c60a6dc4d6d
+[tag uguali] la informo che la telefonata verrà registrata  FOUND IN S1: la informo che la telefonata verrà registrata acconsente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 17100417-fdac-4e03-9400-6c60a6dc4d6d
+[tag diversi] sono le 2 rate no e luglio più quella di agosto FOUND IN S1: e 45 si sono le 2 rate no e luglio più quella di agosto quello
+ 
+	 tag dettaglio_esposizione not in []
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 17100417-fdac-4e03-9400-6c60a6dc4d6d
+[tag uguali] quando effettua il pagamento del bollettino se manda la copia  FOUND IN S1: le chiedo però una gentilezza signora bolletta quando effettua il pagamento del bollettino se manda la copia su velina io adesso le mando un numero ok allora le mando subito il numero grazie
+ 
+	 tag richiesto_riscontro_di_pagamento FOUND IN ['richiesto_riscontro_di_pagamento']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: dacd3de5-5469-4919-bca3-b52b8804bca8
+[tag diversi] chiamo dall' Italia FOUND IN S0: sì mi sente sì sì buongiorno sono la signora De Salvo chiamo dall' Italia da fare per conto Findomestic cercavo la sera fortunati Simonetta
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: dacd3de5-5469-4919-bca3-b52b8804bca8
+[tag uguali] guardi mi può mandare i dati io domani le faccio il versamento FOUND IN S12: okay okay guardi mi può mandare i dati io domani le faccio il versamento domani o dopodomani Massimo
+ 
+	 tag data_pagamento FOUND IN ['data_pagamento', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 592e4db2-ebb8-4db4-9f0b-b76a8499716a
+[tag uguali] chiamo dall' Italia FOUND IN S0: pronto pronto buonasera sono la signora De Salvo chiamo dall' Italia da fare per conto Findomestic ricerca pura le Saverio
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 592e4db2-ebb8-4db4-9f0b-b76a8499716a
+[tag uguali] la chiamo dall' Italia  FOUND IN S0: salvo la chiamo dall' Italia da fare per conto di Findomestic signor Caporale Saverio sì mi dica salve cercavo le ricordo della registrazione della chiamata se acconsente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 592e4db2-ebb8-4db4-9f0b-b76a8499716a
+[tag uguali] quindi non so vuole verificare ci risentiamo lunedì  FOUND IN S0: quindi non so vuole verificare ci risentiamo lunedì mi dica lei
+ 
+	 tag appuntamento FOUND IN ['appuntamento']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 592e4db2-ebb8-4db4-9f0b-b76a8499716a
+[tag diversi] l' ho fatto il versamento FOUND IN S44: allora no non l' ho fatto il versamento che ha dato la disponibilità
+ 
+	 tag debito_gia_pagato not in ['pagamento_non_effettuato']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 592e4db2-ebb8-4db4-9f0b-b76a8499716a
+[tag uguali] se vuole informazioni lunedì io la richiamo  FOUND IN S0: però le ripeto non sappiamo se vuole informazioni lunedì io la richiamo lunedì
+ 
+	 tag appuntamento FOUND IN ['appuntamento']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 7096d6ae-3df6-4d80-bb14-d19b939138db
+[tag diversi] telefonate verrà registrata  FOUND IN S0: pronto pronto buongiorno sono le Monica cercavo la signora accentuata chiamo nessuno io buongiorno signora chiami dall' Italia per contagocce educato sì sempre telefonate verrà registrata consente qui ok lei è nata il 13 4 64 in forma di assunzione offerta mi scusi signora ma aspettavamo le copie dei bonifici guardi ho dato tutto in mano l' avvocato Cacciola e al mio mandato quindi si occuperà lui credo che abbia già contattato signora non appunto comunque allora verrete chiamati
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:57 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 7096d6ae-3df6-4d80-bb14-d19b939138db
+[tag diversi] aspettavamo le copie dei bonifici  FOUND IN S0: pronto pronto buongiorno sono le Monica cercavo la signora accentuata chiamo nessuno io buongiorno signora chiami dall' Italia per contagocce educato sì sempre telefonate verrà registrata consente qui ok lei è nata il 13 4 64 in forma di assunzione offerta mi scusi signora ma aspettavamo le copie dei bonifici guardi ho dato tutto in mano l' avvocato Cacciola e al mio mandato quindi si occuperà lui credo che abbia già contattato signora non appunto comunque allora verrete chiamati
+ 
+	 tag richiesto_riscontro_di_pagamento not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:58 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: f5b6197c-effc-425e-b559-2715a1e76ca5
+[tag diversi] chiamo dall' Italia  FOUND IN S0: pronto sì buona sera sono la signora De Salvo chiamo dall' Italia Raffaele per conto Findomestic e il signor Sorrentino Giuseppe
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:58 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 8c60b526-6f64-440e-b5bd-41567891c87d
+[tag uguali] informare sempre telefonata verrà registrata  FOUND IN S0: sono Lamonica dagli uffici fa per conto Agos laddove informare sempre telefonata verrà registrata con center
+ 
+	 tag rispetto_script FOUND IN ['presentazione_societa', 'rispetto_script']
+
+WARNING 2024-03-04 12:05:58 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 019d0ca4-71c1-49f2-bf99-1351fcccec9f
+[tag diversi] la telefonata verrà registrata  FOUND IN S0: sì ho capito com' è com' è questa la telefonata verrà registrata sì sì va bene sì
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:58 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 019d0ca4-71c1-49f2-bf99-1351fcccec9f
+[tag diversi] non posso fare un bonifico  FOUND IN S1: ma come lo devo fare questo vaglia come lo devo perché io non so il il la prima volta che mi capita che non posso fare un bonifico però effettivamente una volta
+ 
+	 tag difficolta_economiche not in ['dettagli_modalita_pagamento', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:58 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: e3637e33-9410-42a7-b18d-f0797647f076
+[tag diversi] la devo informare che la telefonata verrà registrata FOUND IN S0: pronto è pronto buongiorno sono una famiglia cerca il signor voto Luigi sì signorina buongiorno mi scusi il disturbo la chiamano gli uffici fine per conto agosto votato la devo informare che la telefonata verrà registrata al call center
+ 
+	 tag rispetto_script not in []
+
+WARNING 2024-03-04 12:05:58 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 50e26ff7-53bf-4935-8da9-a5cd3090721c
+[tag diversi] fa chiamo dall' Italia  FOUND IN S15: risolve il signor Scarcella sono ci siamo sentiti qualche giorno fa chiamo dall' Italia per conto di FCE Bank
+ 
+	 tag rispetto_script not in []
+
+WARNING 2024-03-04 12:05:58 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 50e26ff7-53bf-4935-8da9-a5cd3090721c
+[tag diversi] per il contratto della macchina  FOUND IN S0: per il contratto della macchina non mi ricordo
+ 
+	 tag bene_finanziato not in ['presentazione_prodotto']
+
+WARNING 2024-03-04 12:05:58 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 50e26ff7-53bf-4935-8da9-a5cd3090721c
+[tag uguali] non pago perché non ho i soldi  FOUND IN S15: le attivo la chiamata che ho registrato non pago perché non ho i soldi e mi è arrivata la prima accennava prima pago 2 ah ho capito ah paga 2
+ 
+	 tag difficolta_economiche FOUND IN ['difficolta_economiche', 'rifiuta_pagamento']
+
+WARNING 2024-03-04 12:05:58 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 365209c4-0288-4680-b9fb-a7909206a60b
+[tag uguali] chiamo dall' Italia  FOUND IN S0: pronto buongiorno cerco il signor Napoletano Salvatore e chiamo dall' Italia per conto Agos Ducato
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:58 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 365209c4-0288-4680-b9fb-a7909206a60b
+[tag uguali] la informo la telefonata verrà registrata  FOUND IN S0: sì vi do il buongiorno a contattare gli uffici fai la informo la telefonata verrà registrata call center
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:58 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 365209c4-0288-4680-b9fb-a7909206a60b
+[tag uguali] scusa io ho pagato tutto  FOUND IN S2: la consulente che mi ha chiamato me mandate messaggi sul telefonino questo qua lo avete chiamato voi e mi ha mandato l' importo ma adesso non mi ricordo qual è l' importo però con tutte le spese ok adesso allora chiedo scusa io ho pagato tutto in regola quella di luglio avevo questo qua del 25 agosto non ho pagato ma sicuramente per domani
+ 
+	 tag debito_gia_pagato FOUND IN ['debito_gia_pagato']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 4eb32d64-e7dc-4cf0-9745-35d67fffe70b
+[tag uguali] la devo informare telefonata verrà registrata il consenso FOUND IN S1: la devo informare telefonata verrà registrata il consenso
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 4eb32d64-e7dc-4cf0-9745-35d67fffe70b
+[tag diversi] io ho sempre pagato come risulta in 3 o 4 anni ho sempre pagato FOUND IN S0: allora io purtroppo sto avendo problemi di nuovo con la mia azienda che è troppo caro a pagare per problemi economici perché non ho avuto il tempo che io ho sempre pagato come risulta in 3 o 4 anni ho sempre pagato purtroppo sto avendo dei problemi e non non lo so io su questo chiedendo un po' di tempo perché io devo pagare la rata della scheda agosto e purtroppo sono ancora da pagare voglio fare pure che mi manda tutti i connotati sia di quello che dico l' altro consulente sms quello di farlo in settimana
+ 
+	 tag debito_gia_pagato not in ['data_pagamento', 'difficolta_economiche', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 4eb32d64-e7dc-4cf0-9745-35d67fffe70b
+[tag uguali] entro il 22 FOUND IN S1: entro il 22
+ 
+	 tag scadenza_pagamento FOUND IN ['scadenza_pagamento']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 4eb32d64-e7dc-4cf0-9745-35d67fffe70b
+[tag uguali] mandare la copia poi di questo bollettino per sentire FOUND IN S1: così signor Bruno mandare la copia poi di questo bollettino per sentire
+ 
+	 tag richiesto_riscontro_di_pagamento FOUND IN ['richiesto_riscontro_di_pagamento']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 4c837359-6499-4b34-897b-18fb9f36a01e
+[tag uguali] la informo che la chiamata potrebbe essere registrata consenso alla registrazione FOUND IN S2: buongiorno buongiorno Sgarbossa la informo che la chiamata potrebbe essere registrata consenso alla registrazione
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 4c837359-6499-4b34-897b-18fb9f36a01e
+[tag diversi] parlo della rata della carta  FOUND IN S2: ma di quale codice perché io ce ne ho 2 no io parlo della rata della carta 327 virgola 27 finisce col 2 sei sei 7 la carta che la carta
+ 
+	 tag presentazione_prodotto not in ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 4c837359-6499-4b34-897b-18fb9f36a01e
+[tag uguali] io l' ho pagata  FOUND IN S0: questa cosa di cui io ho capito che lui si è quello era sì sì sì no ho capito ho capito sì sì m' ha chiamato tutto okay quindi va in un' altra posizione ma preleviamo né dal conto signor vostra il 27 o la paga no no io no no io l' ho pagata sì se poi le mando il messaggio insomma
+ 
+	 tag debito_gia_pagato FOUND IN ['debito_gia_pagato']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: ff9066a8-14f9-46ce-b99f-b21f50b720b5
+[tag uguali] le ricordo che la chiamata è registrata  FOUND IN S0: e chiamo dagli uffici della fede per conto della Findomestic e le ricordo che la chiamata è registrata consente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: e2d388a6-202c-4b27-bd0b-5d5db4d4cd39
+[tag uguali] informare la telefonata verrà registrata  FOUND IN S0: tanto buonasera cercavo il signor Salvatore sono Lamonica Segretaria per controllo sul caso la devo informare la telefonata verrà registrata Conserva
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: e2d388a6-202c-4b27-bd0b-5d5db4d4cd39
+[tag uguali]  lei è nato il FOUND IN S0: mi scusi no no lei è nato il
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: e2d388a6-202c-4b27-bd0b-5d5db4d4cd39
+[tag uguali] solamente avevo problemi problemi economici  FOUND IN S12: solamente avevo problemi problemi economici di problemi di tutto purtroppo io non ho mai trovato in questa difficoltà dopo
+ 
+	 tag difficolta_economiche FOUND IN ['difficolta_economiche']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: e2d388a6-202c-4b27-bd0b-5d5db4d4cd39
+[tag diversi]  perché ho sempre pagato FOUND IN S12: dove purtroppo non lo so nemmeno che sta scritto nel contratto che mi faranno però io poi appena ho posso fare perché ho sempre pagato
+ 
+	 tag debito_gia_pagato not in []
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: e2d388a6-202c-4b27-bd0b-5d5db4d4cd39
+[tag diversi]  perché ho sempre pagato FOUND IN S12: non lo so io lo so troppo bene ed è un peccato perché ho sempre pagato adesso gliel' ho dato 4
+ 
+	 tag debito_gia_pagato not in []
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: e2d388a6-202c-4b27-bd0b-5d5db4d4cd39
+[tag uguali]  il pagamento lo può fare solo con vaglia ordinario quindi le manderò gli estremi FOUND IN S0: suonare però il pagamento lo può fare solo con vaglia ordinario quindi le manderò gli estremi per fare il fax
+ 
+	 tag estremi_di_pagamento FOUND IN ['estremi_di_pagamento']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: e2d388a6-202c-4b27-bd0b-5d5db4d4cd39
+[tag uguali] o le mando le coordinate FOUND IN S0: va bene allora io le mando le coordinate per fare
+ 
+	 tag estremi_di_pagamento FOUND IN ['estremi_di_pagamento']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: e2d388a6-202c-4b27-bd0b-5d5db4d4cd39
+[tag uguali]  mandi la la copia  FOUND IN S0: gentilezza vero signor Bruno mandi la la copia c'è tutto un messaggio che riceve
+ 
+	 tag richiesto_riscontro_di_pagamento FOUND IN ['richiesto_riscontro_di_pagamento']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: ead602e4-ad24-4b77-beeb-4301fd5f6fa0
+[tag uguali] chiamo dall' Italia  FOUND IN S0: pronto pronto sì buongiorno sono la signora De Salvo chiamo dall' Italia da fare per conto di Findomestic il signor Cariulo e Mohamed ci penso io salve le ricordo della registrazione della chiamata acconsente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: ead602e4-ad24-4b77-beeb-4301fd5f6fa0
+[tag uguali] le ricordo della registrazione della chiamata  FOUND IN S0: pronto pronto sì buongiorno sono la signora De Salvo chiamo dall' Italia da fare per conto di Findomestic il signor Cariulo e Mohamed ci penso io salve le ricordo della registrazione della chiamata acconsente
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: ead602e4-ad24-4b77-beeb-4301fd5f6fa0
+[tag uguali] in merito alla rata da 88 virgola 95 FOUND IN S0: allora in merito alla rata da 88 virgola 95 la chiama solo per avere conferma del pagamento
+ 
+	 tag dettaglio_esposizione FOUND IN ['dettaglio_esposizione']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: ead602e4-ad24-4b77-beeb-4301fd5f6fa0
+[tag diversi] le raccomando non oltre lunedì perché poi noi chiudiamo la contabilità FOUND IN S0: va bene le raccomando non oltre lunedì perché poi noi chiudiamo la contabilità e lei va in segnalazione firma non le accettano più finanziamenti dovesse richiedere ok lunedì allora buongiorno
+ 
+	 tag scadenza_pagamento not in ['utilizzo_leve']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 0b299ca6-31b9-41f8-8213-5895a9332c34
+[tag diversi] chiamo dall' Italia FOUND IN S0: sì buongiorno sono la signora De Salvo chiamo dall' Italia da fare per conto Findomestic e la signora Daniela
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 0b299ca6-31b9-41f8-8213-5895a9332c34
+[tag uguali] senta le faccio il bonifico  FOUND IN S11: da senta mo' qui oggi le faccio il bonus senta le faccio il bonifico con la banca potete prenderli con la banca
+ 
+	 tag volonta_pagamento FOUND IN ['data_pagamento', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 11da3aae-e7d0-4b1e-8e52-92ebb3b219a5
+[tag uguali] chiamo dall' Italia FOUND IN S0: sì buonasera sono la signora De Salvo chiamo dall' Italia da fare per conto di Findomestic fior comodo salve salve le ricordo della registrazione della chiamata se acconsente e per la rata da cento euro me chiamo per avere
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 11da3aae-e7d0-4b1e-8e52-92ebb3b219a5
+[tag uguali] le ricordo della registrazione della chiamata se acconsente FOUND IN S0: sì buonasera sono la signora De Salvo chiamo dall' Italia da fare per conto di Findomestic fior comodo salve salve le ricordo della registrazione della chiamata se acconsente e per la rata da cento euro me chiamo per avere
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 2caed70a-317b-4822-8446-025eaac424c5
+[tag uguali]  per comprare la devo informare telefonata verrà registrata call center sì ok lei è nato il FOUND IN S0: eh sì signora buongiorno stiamo condonare dagli uffici fare per comprare la devo informare telefonata verrà registrata call center sì ok lei è nato il 12 marzo 76 ok Bovisasca informativa sul tema far sapere rate da 60 euro della attiva sì giugno sono due sì
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 2caed70a-317b-4822-8446-025eaac424c5
+[tag uguali]  per il 25 lunedì riesco FOUND IN S1: no domani non riesco a riesco per il 25 lunedì riesco per fine settimana prossima quando prendo lo stipendio
+ 
+	 tag data_pagamento FOUND IN ['attesa_liquidita', 'data_pagamento', 'ha_fonti_reddito']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 2caed70a-317b-4822-8446-025eaac424c5
+[tag uguali] lo paga ha tempo fino al 29  FOUND IN S0: o fa un vaglia postale signora e lo paga ha tempo fino al 29 all' una oppure con una una carta di credito Postepay attraverso un link
+ 
+	 tag scadenza_pagamento FOUND IN ['scadenza_pagamento', 'estremi_di_pagamento']
+
+WARNING 2024-03-04 12:05:59 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 2caed70a-317b-4822-8446-025eaac424c5
+[tag uguali]  domani 29 che dovrebbero accreditarmi lo stipendio ricarico la carta lo pago ok FOUND IN S1: domani 29 che dovrebbero accreditarmi lo stipendio ricarico la carta lo pago ok
+ 
+	 tag attesa_liquidita FOUND IN ['attesa_liquidita', 'ha_fonti_reddito', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 94f06679-3578-417a-889a-808cc9b9ec9f
+[tag diversi] è stata pagata  FOUND IN S0: va benissimo che è stata pagata se mi date una ritualità ma voglio delle ricevute che è stata pagata
+ 
+	 tag debito_gia_pagato not in []
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 94f06679-3578-417a-889a-808cc9b9ec9f
+[tag uguali] ho pagato  FOUND IN S0: in nessun modo al tabaccaio inserendo il codice che mi avete mandato via sms ho pagato Giancarlo ho mandato una ricevuta
+ 
+	 tag debito_gia_pagato FOUND IN ['debito_gia_pagato']
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 94f06679-3578-417a-889a-808cc9b9ec9f
+[tag diversi] ho mandato una ricevuta FOUND IN S0: in nessun modo al tabaccaio inserendo il codice che mi avete mandato via sms ho pagato Giancarlo ho mandato una ricevuta
+ 
+	 tag modulistica not in ['debito_gia_pagato']
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 6f6bac41-5150-47be-b958-a2219a511069
+[tag diversi] la devo informare telefonata verrà registrata  FOUND IN S0: pronto buonasera cercavo il signor Grassi Angelo Antonio sono la modifica di file per conto Agos buonasera la contatto la devo informare telefonata verrà registrata consente
+ 
+	 tag rispetto_script not in []
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 484d53b7-cca3-402c-b9a9-e2fbe731cd1f
+[tag diversi] le ricordo sempre la telefonata verrà registrata  FOUND IN S1: signora la chiama una giustificazione per quanto a gas educato le ricordo sempre la telefonata verrà registrata al call center
+ 
+	 tag rispetto_script not in ['presentazione_prodotto']
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 484d53b7-cca3-402c-b9a9-e2fbe731cd1f
+[tag diversi] io ho detto che pagavo intanto  FOUND IN S0: eh però purtroppo se non c'è il bollettino la banca non mi fa fare un bonifico con la o perché io ho detto che pagavo intanto m' hanno detto no perché ormai è passato e non l' avevamo pagato quindi m' hanno detto se li facilita il bollettino
+ 
+	 tag volonta_pagamento not in []
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 484d53b7-cca3-402c-b9a9-e2fbe731cd1f
+[tag uguali] in un tabacchino col codice che le inviamo noi tramite messaggio si chiama codice a barre fanno pagare il bollettino  FOUND IN S1: in un tabacchino col codice che le inviamo noi tramite messaggio si chiama codice a barre fanno pagare il bollettino ok
+ 
+	 tag estremi_di_pagamento FOUND IN ['estremi_di_pagamento']
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 484d53b7-cca3-402c-b9a9-e2fbe731cd1f
+[tag uguali] lei venerdì giovedì come lo paga questo bollettino FOUND IN S1: la capisco però e quindi lei venerdì giovedì come lo paga questo bollettino con la doccia alla posta al tabacchino lo deve pagare signora
+ 
+	 tag conferma_accordi FOUND IN ['conferma_accordi']
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 39b5250f-2c87-4596-be9c-727d50bf2a96
+[tag diversi] devo pagare mo' appena esco dall' ospedale vado immediatamente FOUND IN S0: no eh m' è arrivato il vostro messaggio su sul telefonino di quello che devo pagare mo' appena esco dall' ospedale vado immediatamente a trovare un tabaccaio ah
+ 
+	 tag volonta_pagamento not in ['salute']
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 64fec6f6-de2d-4b50-a6e0-dac92ca5df41
+[tag diversi] chiamo dall' Italia FOUND IN S0: sì buongiorno sono la signora De Salvo chiamo dall' Italia ed Raffaele per conto di Findomestic e il signor De Pascali Errico
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 64fec6f6-de2d-4b50-a6e0-dac92ca5df41
+[tag uguali] la informo che la chiamata potrebbe essere registrata il consenso alla registrazione FOUND IN S0: la informo che la chiamata potrebbe essere registrata il consenso alla registrazione
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 58c8b842-2a99-4447-9a45-d0edbfe2963e
+[tag diversi] chiamo dall' Italia FOUND IN S0: pronto sì buongiorno sono la signora De Salvo chiamo dall' Italia da fare per conto Findomestic e il signor De Pascali Enrico
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 58c8b842-2a99-4447-9a45-d0edbfe2963e
+[tag uguali] in settimana prossima riesco sbloccare la carta pagare  FOUND IN S14: previsto questa settimana in settimana prossima riesco sbloccare la carta pagare il pagamento per fare il pagamento che
+ 
+	 tag data_pagamento FOUND IN ['data_pagamento', 'volonta_pagamento']
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L93 - id chiamata: 7ad082e7-79b1-4709-9816-7e7609fb8941
+[tag diversi] chiamo dall' Italia FOUND IN S0: sì buongiorno sono la signora De Salvo chiamo dall' Italia da fare per conto di Findomestic cercavo il signor Rossoni Giammario
+ 
+	 tag rispetto_script not in ['presentazione_societa']
+
+WARNING 2024-03-04 12:06:00 	 c:/Users/smarotta/PycharmProjects/mirc0_tag_validation/integrazione_json_validazione_con_word.py F<module> L103 - id chiamata: 7ad082e7-79b1-4709-9816-7e7609fb8941
+[tag uguali] la informo che la chiamata potrebbe essere registrata consente la registrazione FOUND IN S0: salve sono sono io la informo che la chiamata potrebbe essere registrata consente la registrazione
+ 
+	 tag rispetto_script FOUND IN ['rispetto_script']
+
