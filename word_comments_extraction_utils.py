@@ -105,3 +105,9 @@ def return_comments_dicts(doc_file_path: Path) -> Union[list, bool]:
 if __name__ == '__main__':
     dicts = return_comments_dicts(r"C:\Users\smarotta\Desktop\mirco_file_validazione\output\2042312668_202204201623_6a78108d-3156-4569-8323-5c89e3b2d071_annotato.docx")
     [print(x) for x in dicts]
+
+# Output:
+# {'tag': 'rispetto_script', 'testo': "NOMECOGNOME dall' Italia ", 'start': 97, 'end': 122}
+# {'tag': 'presentazione_societa', 'testo': "NOMECOGNOME dall' Italia dagli uffici AZIENDA per AZIENDA ", 'start': 97, 'end': 155}
+# {'tag': 'rispetto_script', 'testo': 'ricordo che la mia telefonata verrà registrata ', 'start': 157, 'end': 204}  
+# {'tag': 'volonta_risolutiva', 'testo': 'lei riesce non fare neanche un bonifico online', 'start': 626, 'end': 672}

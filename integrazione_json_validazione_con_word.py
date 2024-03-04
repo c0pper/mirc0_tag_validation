@@ -1,5 +1,5 @@
 """
-Build library of text files from valid_tag.json
+Prende in input singolo json di validazione e cartella contentente annotazioni word e restituisce lo stesso json con tag word aggiunti alla chiave ordine tag
 """
 import json
 import zipfile
@@ -8,20 +8,10 @@ from word_comments_extraction_utils import return_comments_dicts
 from datetime import date
 from logger import logger
 
-WRITE_FILES = 1
-
 
 file_validazione = "20230419_valid_tag"
 doc_folder = Path(r"C:\Users\smarotta\Desktop\mirco_file_validazione\output")
-txt_path_operatore = Path(f"output/{date.today()}_{file_validazione}/operatore/test")
-ann_path_operatore = Path(f"output/{date.today()}_{file_validazione}/operatore/ann")
-txt_path_debitore = Path(f"output/{date.today()}_{file_validazione}/debitore/test")
-ann_path_debitore = Path(f"output/{date.today()}_{file_validazione}/debitore/ann")
 
-txt_path_operatore.mkdir(parents=True, exist_ok=True)
-ann_path_operatore.mkdir(parents=True, exist_ok=True)
-txt_path_debitore.mkdir(parents=True, exist_ok=True)
-ann_path_debitore.mkdir(parents=True, exist_ok=True)
 
 with open(f"{file_validazione}.json", "r", encoding="utf8") as f:
     data = json.load(f)
@@ -30,18 +20,6 @@ for obj in data:
     idpratica = obj["ID_Pratica"]
     idchiamata = obj["idchiamata"]
     id_ = f"{idpratica}_{idchiamata}"
-    operatore_text = obj["tag"]["operatore"]["testo_operatore"]
-    debitore_text = obj["tag"]["debitore"]["testo_debitore"]
-    speaker = ""
-
-    all_tags_debitore = obj["tag"]["debitore"]["analisi_debitore"]["intenzionalita"] + \
-                        obj["tag"]["debitore"]["analisi_debitore"]["informative"]
-    all_tags_debitore = [list(x.keys())[0] for x in all_tags_debitore]
-
-    all_tags_operatore = obj["tag"]["operatore"]["analisi_operatore"]["presentazione"] + \
-                        obj["tag"]["operatore"]["analisi_operatore"]["trattativa"] + \
-                        obj["tag"]["operatore"]["analisi_operatore"]["chiusura"]
-    all_tags_operatore = [list(x.keys())[0] for x in all_tags_operatore]
 
     ordine_tag = obj["tag"]["ordine_tag"]
 
@@ -132,40 +110,9 @@ for obj in data:
             print(ordine_tag_no_dups_with_word)
         else:
             raise FileNotFoundError(f"No word comments found for file {doc.name}")
+        
+        if ordine_tag_no_dups_with_word:
+            obj["tag"]["ordine_tag"] = ordine_tag_no_dups_with_word  # updating the original ordine_tag with the modified one
 
-        #  identificazione speaker e creazione files
-        if WRITE_FILES:
-            for idx, tag_obj in enumerate(ordine_tag_no_dups_with_word):
-                tags = tag_obj["tags"]
-                testo = tag_obj["testo"]
-
-                if tags[0]["tag"] in all_tags_debitore:
-                    speaker = "debitore"
-                elif tags[0]["tag"] in all_tags_operatore:
-                    speaker = "operatore"
-
-                #  Creazione txt
-                if speaker == "operatore":
-                    with open(f"{txt_path_operatore}/{id_}_operatore_{idx}.txt", "w", encoding="utf-8") as f:
-                        f.write(testo)
-                elif speaker == "debitore":
-                    with open(f"{txt_path_debitore}/{id_}_debitore_{idx}.txt", "w", encoding="utf-8") as f:
-                        f.write(testo)
-
-                #  Creazione ann
-                if speaker == "operatore":
-                    with open(f"{ann_path_operatore}/{id_}_operatore_{idx}.ann", "a", encoding="utf-8") as f:
-                        for tag_obj in tags:
-                            tag = tag_obj["tag"]
-                            errato = tag_obj.get("errato", False)
-                            if not errato:
-                                f.write(f"C0		{tag}\n")
-
-                elif speaker == "debitore":
-                    with open(f"{ann_path_debitore}/{id_}_debitore_{idx}.ann", "a", encoding="utf-8") as f:
-                        for tag_obj in tags:
-                            tag = tag_obj["tag"]
-                            errato = tag_obj.get("errato", False)
-                            if not errato:
-                                f.write(f"C0		{tag}\n")
-
+with open(f"{file_validazione}_updated.json", "w", encoding="utf8") as updated_file:
+    json.dump(data, updated_file, ensure_ascii=False, indent=4)
